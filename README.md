@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto foi elaborado [nesse vídeo](https://youtu.be/fC_OdD6zy-Y) que demonstra como construir uma API de geração de notas de estudo utilizando Spring Boot e ChatGPT.
+Esse projeto demonstra como construir uma API de geração de notas de estudo utilizando Spring Boot e ChatGPT.
 
 ## 🗒️ Roteiro
 
